@@ -1,0 +1,14 @@
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\calculator_c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\calculator_c.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\calculator_c.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\calculator_c.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\bin\Debug\net8.0\calculator_c.exe
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\bin\Debug\net8.0\calculator_c.deps.json
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\bin\Debug\net8.0\calculator_c.runtimeconfig.json
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\bin\Debug\net8.0\calculator_c.dll
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\bin\Debug\net8.0\calculator_c.pdb
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\calculator_c.dll
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\refint\calculator_c.dll
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\calculator_c.pdb
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\calculator_c.genruntimeconfig.cache
+C:\Users\samue\RiderProjects\calculator_c\calculator_c\obj\Debug\net8.0\ref\calculator_c.dll
